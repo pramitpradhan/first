@@ -1,2 +1,2 @@
 # first
-this is readme-edits of master branch
+this is master branch
